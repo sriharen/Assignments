@@ -1,2 +1,6 @@
 dev
+<<<<<<< HEAD
 dev
+=======
+trying squash
+>>>>>>> 035081e82dbb386a0d6c8ed124ea9eb088dc035b
